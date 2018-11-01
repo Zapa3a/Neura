@@ -108,8 +108,10 @@
     <Link>
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <StackCommitSize>1000000000</StackCommitSize>
-      <StackReserveSize>10000000000</StackReserveSize>
+      <StackCommitSize>
+      </StackCommitSize>
+      <StackReserveSize>
+      </StackReserveSize>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
