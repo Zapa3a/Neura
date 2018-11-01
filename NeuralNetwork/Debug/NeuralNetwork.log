@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  NeuralNetwork.cpp
+c:\users\maxim\source\repos\neuralnetwork\neuralnetwork\neuralnetwork.cpp(19): warning C4101: DeltaOutput: неиспользованная локальная переменная
+c:\users\maxim\source\repos\neuralnetwork\neuralnetwork\neuralnetwork.cpp(18): warning C4101: OutputNeuro: неиспользованная локальная переменная
+c:\users\maxim\source\repos\neuralnetwork\neuralnetwork\neuralnetwork.cpp(20): warning C4101: LayerNeuro: неиспользованная локальная переменная
+c:\users\maxim\source\repos\neuralnetwork\neuralnetwork\neuralnetwork.cpp(23): warning C4101: DeltaWeightsNeuro: неиспользованная локальная переменная
+c:\users\maxim\source\repos\neuralnetwork\neuralnetwork\neuralnetwork.cpp(26): warning C4101: TrueAnswer: неиспользованная локальная переменная
+c:\users\maxim\source\repos\neuralnetwork\neuralnetwork\neuralnetwork.cpp(22): warning C4101: WeightsNeuro: неиспользованная локальная переменная
+c:\users\maxim\source\repos\neuralnetwork\neuralnetwork\neuralnetwork.cpp(21): warning C4101: DeltaLayerNeuro: неиспользованная локальная переменная
+c:\users\maxim\source\repos\neuralnetwork\neuralnetwork\neuralnetwork.cpp(17): warning C4101: InputNeuro: неиспользованная локальная переменная
+  NeuralNetwork.vcxproj -> c:\users\maxim\source\repos\NeuralNetwork\Debug\NeuralNetwork.exe
